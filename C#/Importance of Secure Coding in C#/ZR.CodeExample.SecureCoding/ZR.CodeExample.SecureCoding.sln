@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZR.CodingExample.SecureCoding.ConsoleApp.PasswordHashingExample", "ZR.CodingExample.SecureCoding.ConsoleApp.PasswordHashingExample\ZR.CodingExample.SecureCoding.ConsoleApp.PasswordHashingExample.csproj", "{571A7596-1182-40A5-835D-DF2ADF2CA6D4}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZR.CodingExample.SecureCoding.SqlInjectionExample", "ZR.CodingExample.SercureCoding.SqlInjectionExample\ZR.CodingExample.SecureCoding.SqlInjectionExample.csproj", "{E1FB9D83-F161-46DB-925A-1991E82B697E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZR.CodingExample.SecureCoding.HttpsExample", "ZR.CodingExample.SercureCoding.HttpsExample\ZR.CodingExample.SecureCoding.HttpsExample.csproj", "{3CF13BCB-034E-43FF-B5DA-88E57F4E9314}"
@@ -24,10 +22,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{571A7596-1182-40A5-835D-DF2ADF2CA6D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{571A7596-1182-40A5-835D-DF2ADF2CA6D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{571A7596-1182-40A5-835D-DF2ADF2CA6D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{571A7596-1182-40A5-835D-DF2ADF2CA6D4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E1FB9D83-F161-46DB-925A-1991E82B697E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E1FB9D83-F161-46DB-925A-1991E82B697E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1FB9D83-F161-46DB-925A-1991E82B697E}.Release|Any CPU.ActiveCfg = Release|Any CPU
