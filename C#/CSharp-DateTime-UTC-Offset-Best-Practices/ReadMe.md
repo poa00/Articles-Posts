@@ -1,6 +1,6 @@
 # Best Practices for Working with DateTime, UTC, and Offset in C#
 Handling date and time in software applications is a critical aspect of many programming tasks. Modern global applications often require dealing with time zones and offsets to ensure accurate and consistent time representations across different regions. This repository provides insights into best practices for working with DateTime, UTC, and Offset in C#.
-The Article for this Repo is on the following URL [ddd](https://www.c-sharpcorner.com/article/)
+The Article for this Repo is on the following URL [https://www.c-sharpcorner.com/article/best-practices-for-working-with-datetime-utc-and-offset-in-c-sharp/](https://www.c-sharpcorner.com/article/best-practices-for-working-with-datetime-utc-and-offset-in-c-sharp/)
 
 ## Overview
 
