@@ -19,7 +19,18 @@ In this repository, you'll find a compilation of articles that delve into divers
 
 ## Articles
 
-* Coming Soon with List
+- [ASP.NET Core REST API Best Practices with OpenAPI](https://github.com/ziggyrafiq/Articles-Posts/tree/main/ASP.net%20Core/API/ASP.NET-Core-REST-API-Best-Practices-with-OpenAPI)
+- [Using ViewBag and ViewData in ASP.NET Core MVC](https://github.com/ziggyrafiq/Articles-Posts/tree/main/ASP.net%20Core/MVC/Using%20ViewBag%20and%20ViewData)
+- [Leveraging Isolated .NET Core for Azure Functions: Unleashing Performance and Independence](https://github.com/ziggyrafiq/Articles-Posts/tree/main/Azure/Leveraging%20Isolated%20.NET%20Core%20for%20Azure%20Functions%20Unleashing%20Performance%20and%20Independence)
+- [Best Practices for Maintaining Security and Preventing Vulnerabilities in C#](https://github.com/ziggyrafiq/Articles-Posts/tree/main/C%23/Best%20Practices%20for%20Maintaining%20Security%20and%20Preventing%20Vulnerabilities%20in%20C%23)
+- [C# Split String Where There Is the Backslash](https://github.com/ziggyrafiq/Articles-Posts/tree/main/C%23/C%23%20Split%20String%20Where%20There%20Is%20the%20Backslash/ZR.String-Split-Examples)
+- [C# DateTime UTC Offset Best Practices](https://github.com/ziggyrafiq/Articles-Posts/tree/main/C%23/CSharp-DateTime-UTC-Offset-Best-Practices)
+- [Converting Strings and Reverse in C#](https://github.com/ziggyrafiq/Articles-Posts/tree/main/C%23/Converting%20Strings%20%20and%20Reverse)
+- [Ensuring Secure Coding in C#](https://github.com/ziggyrafiq/Articles-Posts/tree/main/C%23/Ensuring%20Secure%20Coding%20in%20C%23/ZR.CodeExample.EnsuringSecureCoding)
+- [Importance of Secure Coding in C#](https://github.com/ziggyrafiq/Articles-Posts/tree/main/C%23/Importance%20of%20Secure%20Coding%20in%20C%23/ZR.CodeExample.SecureCoding)
+- [Truncate String in C#](https://github.com/ziggyrafiq/Articles-Posts/tree/main/C%23/Truncate-String)
+- [Using GUIDs in C#](https://github.com/ziggyrafiq/Articles-Posts/tree/main/C%23/Using%20GUIDs/Using%20GUID%20Code%20Examples)
+
 
 ## Author
 
