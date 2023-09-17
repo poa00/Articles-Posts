@@ -10,8 +10,8 @@ The source code provided here demonstrates the implementation of Clean Architect
 - Technical Lead Developer, C# Corner
 - Microsoft MVP, VIP, Speaker
 - Mentor and Trainer with solid experience in System Architecture for over 19 years
-- Link to [Ziggy Rafiq Blog] (https://blog.ziggyrafiq.com)
-- Link to [Ziggy Rafiq Website] (https://ziggyrafiq.com)
+- Link to [Ziggy Rafiq Blog](https://blog.ziggyrafiq.com)
+- Link to [Ziggy Rafiq Website](https://ziggyrafiq.com)
 
 For a detailed explanation and step-by-step guide, please refer to the [C# Corner Article URL](https://www.c-sharpcorner.com/article/a-clean-architecture-for-building-web-applications-with-asp-net-core-m/)
 .
