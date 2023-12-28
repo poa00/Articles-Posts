@@ -17,3 +17,17 @@ CSV (Comma-Separated Values) is a popular file format for tabular data. The repo
 The repository also covers reverse conversions, demonstrating how to convert JSON, Base64, XML, and CSV back to strings in C#. Explore the code examples for each format, including deserialization, decoding, and retrieving the original string representations.
 
 Feel free to explore the code examples and adapt them to your specific use cases. The provided examples will assist you in working with different string formats effectively in your C# applications.
+
+## Author
+## Ziggy Rafiq
+- **Technical Lead Developer, C# Corner (MVP 🏅, VIP⭐️, Public Speaker🎤), Mentor, and Trainer**
+- **C# Corner MVP, VIP, Speaker, Chapter Lead UK**
+- Mentor and Trainer with solid experience in System Architecture for over 19 years
+- Link to [**Ziggy Rafiq Blog**](https://blog.ziggyrafiq.com)
+- Link to [**Ziggy Rafiq Website**](https://ziggyrafiq.com)
+* [**Please remember to subscribe to My YouTube channel**](https://www.youtube.com/)
+* [**Please remember to follow me on LinkedIn**](https://www.linkedin.com/in/ziggyrafiq/)
+* [**Please remember to connect with me on C# Corner**](https://www.c-sharpcorner.com/members/ziggy-rafiq)
+* [**Please remember to follow  me on Twitter/X**](https://twitter.com/ziggyrafiq)
+* [**Please remember to follow  me on Instagram**](https://www.instagram.com/ziggyrafiq/)
+* [**Please remember to follow  me on Facebook**](https://www.facebook.com/ziggyrafiq)

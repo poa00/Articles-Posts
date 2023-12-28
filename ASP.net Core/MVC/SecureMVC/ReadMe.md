@@ -204,6 +204,18 @@ As we conclude this demonstration, we now possess a clearer grasp of how to wiel
 In wrapping up our journey, we've not only fortified our data's security but also equipped us with the wisdom to navigate the ever-evolving landscape of web application security. As we continue to evolve as a developer, may these insights serve as a steadfast guide in our quest to protect and secure critical data assets.
 
 ## About The Author Ziggy Rafiq
+- **Technical Lead Developer, C# Corner (MVP 🏅, VIP⭐️, Public Speaker🎤), Mentor, and Trainer**
+- **C# Corner MVP, VIP, Speaker, Chapter Lead UK**
+- Mentor and Trainer with solid experience in System Architecture for over 19 years
+- Link to [**Ziggy Rafiq Blog**](https://blog.ziggyrafiq.com)
+- Link to [**Ziggy Rafiq Website**](https://ziggyrafiq.com)
+* [**Please remember to subscribe to My YouTube channel**](https://www.youtube.com/)
+* [**Please remember to follow me on LinkedIn**](https://www.linkedin.com/in/ziggyrafiq/)
+* [**Please remember to connect with me on C# Corner**](https://www.c-sharpcorner.com/members/ziggy-rafiq)
+* [**Please remember to follow  me on Twitter/X**](https://twitter.com/ziggyrafiq)
+* [**Please remember to follow  me on Instagram**](https://www.instagram.com/ziggyrafiq/)
+* [**Please remember to follow  me on Facebook**](https://www.facebook.com/ziggyrafiq)
+
 Ziggy Rafiq is the author and creator of this repository. He is a C# Corner MVP,VIP,Speaker and Chapter Lead Award recipient in 2023, with over 20 years of technical experience using Microsoft technologies and tools. Ziggy has earned various other awards in the past for his contributions to the tech community.
 
 Please note that these examples are simplified for demonstration purposes. In real-world applications, additional security measures and best practices may be required. It is essential to adapt these practices to the specific requirements and security needs of your application.
@@ -215,3 +227,4 @@ Happy and Secure Coding!
 For a deeper dive into related topics and to stay updated with my work, I invite you to explore my websites: [Ziggy Rafiq](https://ziggyrafiq.com) and [Ziggy Rafiq's Blog](https://blog.ziggyrafiq.com). These platforms provide additional insights and valuable information to further enhance our understanding of the subject matter.
 
 The full article can be found at [Security ASP.net Core MVC (C#) Encryption and Decryption](https://www.c-sharpcorner.com/article/the-encryption-and-decryption-of-asp-net-core-mvc-c-sharp/.)
+

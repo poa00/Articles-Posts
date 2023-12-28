@@ -3,8 +3,6 @@
 ## Overview
 Azure Functions is a serverless computing service by Microsoft Azure that allows developers to execute code without managing infrastructure. Besides supporting event-driven HTTP requests, timers, and more, it is highly scalable and cost-effective. It is crucial to select the right .NET Core version for Azure Functions to ensure performance, compatibility, and security. With isolated .NET Core, runtime and execution are enhanced, providing independence, improved performance, side-by-side deployment, and future compatibility. Using isolated .NET Core for Azure Functions, we'll explore the importance of .NET Core selection and practical implementation.
 
-## Author
-*  [Ziggy Rafiq](https://ziggyrafiq.com).
 *  [This Repo Article by Ziggy Rafiq is on C# Corner](https://www.c-sharpcorner.com/article/leveraging-isolated-net-core-for-azure-functions-unleashing-performance-and-in/).
 
 ## Brief Explanation of Azure Functions
@@ -44,5 +42,17 @@ In this guide, we've delved into the dynamic realm of leveraging isolated .NET C
 
 By navigating the intricacies of isolated .NET Core, developers wield a potent toolset. Optimizing dependency management, configuration, and deployment strategy empowers us to harness isolated .NET Core's full potential, culminating in serverless applications boasting stellar performance, independence, and reliability.
 
- 
+## Author
+## Ziggy Rafiq
+- **Technical Lead Developer, C# Corner (MVP 🏅, VIP⭐️, Public Speaker🎤), Mentor, and Trainer**
+- **C# Corner MVP, VIP, Speaker, Chapter Lead UK**
+- Mentor and Trainer with solid experience in System Architecture for over 19 years
+- Link to [**Ziggy Rafiq Blog**](https://blog.ziggyrafiq.com)
+- Link to [**Ziggy Rafiq Website**](https://ziggyrafiq.com)
+* [**Please remember to subscribe to My YouTube channel**](https://www.youtube.com/)
+* [**Please remember to follow me on LinkedIn**](https://www.linkedin.com/in/ziggyrafiq/)
+* [**Please remember to connect with me on C# Corner**](https://www.c-sharpcorner.com/members/ziggy-rafiq)
+* [**Please remember to follow  me on Twitter/X**](https://twitter.com/ziggyrafiq)
+* [**Please remember to follow  me on Instagram**](https://www.instagram.com/ziggyrafiq/)
+* [**Please remember to follow  me on Facebook**](https://www.facebook.com/ziggyrafiq) 
 

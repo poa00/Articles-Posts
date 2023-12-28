@@ -56,6 +56,15 @@ Visit [Ziggy's website](https://ziggyrafiq.com) to learn more about his work, ar
 
 Read Ziggy's latest thoughts and insights on his [blog](https://blog.ziggyrafiq.com/).
 
+## Author
+## Ziggy Rafiq
+* [**Please remember to subscribe to My YouTube channel**](https://www.youtube.com/)
+* [**Please remember to follow me on LinkedIn**](https://www.linkedin.com/in/ziggyrafiq/)
+* [**Please remember to connect with me on C# Corner**](https://www.c-sharpcorner.com/members/ziggy-rafiq)
+* [**Please remember to follow  me on Twitter/X**](https://twitter.com/ziggyrafiq)
+* [**Please remember to follow  me on Instagram**](https://www.instagram.com/ziggyrafiq/)
+* [**Please remember to follow  me on Facebook**](https://www.facebook.com/ziggyrafiq)
+
 ## License
 
 This repository's content is licensed under the [Creative Commons Attribution 4.0 International License](LICENSE).

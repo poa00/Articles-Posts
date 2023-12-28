@@ -32,7 +32,19 @@ Learn how to handle HttpContext to prevent issues when accessed from multiple th
 
 Our application should be able to handle situations where HttpRequest.ContentLength is unknown gracefully without causing disruptions.
 
-## Author Ziggy Rafiq
+## Author
+## Ziggy Rafiq
+- **Technical Lead Developer, C# Corner (MVP 🏅, VIP⭐️, Public Speaker🎤), Mentor, and Trainer**
+- **C# Corner MVP, VIP, Speaker, Chapter Lead UK**
+- Mentor and Trainer with solid experience in System Architecture for over 19 years
+- Link to [**Ziggy Rafiq Blog**](https://blog.ziggyrafiq.com)
+- Link to [**Ziggy Rafiq Website**](https://ziggyrafiq.com)
+* [**Please remember to subscribe to My YouTube channel**](https://www.youtube.com/)
+* [**Please remember to follow me on LinkedIn**](https://www.linkedin.com/in/ziggyrafiq/)
+* [**Please remember to connect with me on C# Corner**](https://www.c-sharpcorner.com/members/ziggy-rafiq)
+* [**Please remember to follow  me on Twitter/X**](https://twitter.com/ziggyrafiq)
+* [**Please remember to follow  me on Instagram**](https://www.instagram.com/ziggyrafiq/)
+* [**Please remember to follow  me on Facebook**](https://www.facebook.com/ziggyrafiq)
 The recent C# CornerMVP Award was won by Ziggy Rafiq along with C# Corner Member of the Month, C# Corner VIP Award, C# Corner Speak, C# Corner Chapter Lead, Microsoft West Midlands Top 10 Best Developer Award 2008 and Shell Step Award 2002.
 
 

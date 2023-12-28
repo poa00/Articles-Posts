@@ -54,9 +54,18 @@ This repository is licensed under the MIT License.
 
 _Disclaimer: The information provided in this repository is based on best practices up to September 2021. Always refer to the latest documentation and guidelines for the most accurate and current information._
 
-**Author: Ziggy Rafiq**
-**Website:** [https://ziggyrafiq.com](https://ziggyrafiq.com)
-**[LinkedIn Profile]**(https://www.linkedin.com/in/ziggyrafiq "Connect with me on LinkedIn")
-
+## Author
+## Ziggy Rafiq
+- **Technical Lead Developer, C# Corner (MVP 🏅, VIP⭐️, Public Speaker🎤), Mentor, and Trainer**
+- **C# Corner MVP, VIP, Speaker, Chapter Lead UK**
+- Mentor and Trainer with solid experience in System Architecture for over 19 years
+- Link to [**Ziggy Rafiq Blog**](https://blog.ziggyrafiq.com)
+- Link to [**Ziggy Rafiq Website**](https://ziggyrafiq.com)
+* [**Please remember to subscribe to My YouTube channel**](https://www.youtube.com/)
+* [**Please remember to follow me on LinkedIn**](https://www.linkedin.com/in/ziggyrafiq/)
+* [**Please remember to connect with me on C# Corner**](https://www.c-sharpcorner.com/members/ziggy-rafiq)
+* [**Please remember to follow  me on Twitter/X**](https://twitter.com/ziggyrafiq)
+* [**Please remember to follow  me on Instagram**](https://www.instagram.com/ziggyrafiq/)
+* [**Please remember to follow  me on Facebook**](https://www.facebook.com/ziggyrafiq)
 Please make sure to replace the placeholders like `ziggyrafiq` with your actual GitHub username and adjust any other links as necessary.
 
