@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\ZR.CodeExample.SecureMVC.props" />
-</Project>

@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\EnumWithEfCoreDemo.API.props" />
-</Project>

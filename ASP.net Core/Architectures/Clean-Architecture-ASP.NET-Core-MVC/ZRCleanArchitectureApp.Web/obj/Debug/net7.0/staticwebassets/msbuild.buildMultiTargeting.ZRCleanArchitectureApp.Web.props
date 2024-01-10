@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\ZRCleanArchitectureApp.Web.props" />
-</Project>
