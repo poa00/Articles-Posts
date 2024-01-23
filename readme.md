@@ -18,6 +18,7 @@ Welcome to the "Articles Posts" repository! This repository contains a collectio
 In this repository, you'll find a compilation of articles that delve into diverse aspects of programming, technology trends, and practical insights. The articles are intended to provide valuable information, tutorials, and thought-provoking discussions on various subjects of interest.
 
 ## Articles
+- [Azure Key Vault Certificate Validation with C#](https://github.com/ziggyrafiq/Articles-Posts/tree/main/Azure/azure-keyvault-certificate-validation-csharp)
 - [A Clean Architecture for Building Web Applications with ASP.NET Core MVC C#](https://github.com/ziggyrafiq/Articles-Posts/blob/main/ASP.net%20Core/Architectures/Clean-Architecture-ASP.NET-Core-MVC)
 - [ASP.NET Core REST API Best Practices with OpenAPI](https://github.com/ziggyrafiq/Articles-Posts/tree/main/ASP.net%20Core/API/ASP.NET-Core-REST-API-Best-Practices-with-OpenAPI)
 - [Using ViewBag and ViewData in ASP.NET Core MVC](https://github.com/ziggyrafiq/Articles-Posts/tree/main/ASP.net%20Core/MVC/Using%20ViewBag%20and%20ViewData)
