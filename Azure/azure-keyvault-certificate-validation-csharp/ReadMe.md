@@ -28,13 +28,7 @@ The following prerequisites must be in place before you can dive into the code:
 
 This repository contains code examples which demonstrate secure certificate validation in C# with Azure Key Vault integration using the X509Certificate2 class.
 
-## Usage
 
-1. Clone the repository:
-
-   ```bash
-
-   git clone https://github.com/ziggyrafiq/https://github.com/ziggyrafiq/Articles-Posts/tree/main/Azure/azure-keyvault-certificate-validation-csharp.git
 
 
 ## Author
