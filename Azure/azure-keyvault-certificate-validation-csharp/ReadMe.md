@@ -4,7 +4,7 @@
 
 It is crucial to ensure secure communication between applications to ensure sensitive data is protected. Certificates play an important role in establishing trust between parties. This repository focuses on performing secure certificate validation in the context of Azure Key Vault using C#.
 
-*  [This Repo Article by Ziggy Rafiq is on C# Corner](https://www.c-sharpcorner.com/article/Azure-Key-Vault-Certificate-Validation-with-C#/).
+*  [This Repo Article by Ziggy Rafiq is on C# Corner]([https://www.c-sharpcorner.com/article/Azure-Key-Vault-Certificate-Validation-with-C#/](https://www.c-sharpcorner.com/article/azure-key-vault-certificate-validation-with-c-sharp/)).
 
 ## Prerequisites
 
