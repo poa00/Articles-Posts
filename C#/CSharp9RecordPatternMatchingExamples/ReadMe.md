@@ -3,7 +3,7 @@
 ## Overview
 This repository contains examples demonstrating the usage of C# 9 features such as Records and Pattern Matching. The code showcases how to write concise and readable C# code using these powerful language features.
 
-*  [This Repo Article by Ziggy Rafiq is on C# Corner]([https://www.c-sharpcorner.com/article/Azure-Key-Vault-Certificate-Validation-with-C#/](https://www.c-sharpcorner.com/article/azure-key-vault-certificate-validation-with-c-sharp/)).
+*  [This Repo Article by Ziggy Rafiq is on C# Corner](https://www.c-sharpcorner.com/article/record-and-pattern-matching-in-c-sharp-9-writing-c-sharp-code-that-is-concise-and-readabl/).
 
 ## Project Structure
 
